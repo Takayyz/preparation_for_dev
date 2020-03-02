@@ -1,2 +1,2 @@
-# preparation_for_dev
+# 開発までのToDoまとめ
 things to do before develop services
